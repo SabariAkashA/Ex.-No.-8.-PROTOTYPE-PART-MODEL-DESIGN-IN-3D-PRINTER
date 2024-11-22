@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/fd1db285-8818-40dd-9b76-0b8a77f7b920)
+<img src=https://github.com/user-attachments/assets/e294d151-09de-4154-bf99-339eca3cc664 width=750 height=500>
 
 ### Name: Sabari Akash A
 ### Register Number: 212222230124
